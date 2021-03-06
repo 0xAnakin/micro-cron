@@ -1,6 +1,6 @@
 # micro-cron
 
-[![Build Status](https://travis-ci.org/syd619/micro-cron.svg?branch=master)](https://travis-ci.org/syd619/micro-cron)
+[![Build Status](https://travis-ci.org/syd619/micro-cron.svg?branch=main)](https://travis-ci.org/github/syd619/micro-cron)
 [![npm version](https://badge.fury.io/js/micro-cron.svg)](https://badge.fury.io/js/micro-cron)
 [![Known Vulnerabilities](https://snyk.io/test/github/syd619/micro-cron/badge.svg?targetFile=package.json)](https://snyk.io/test/github/syd619/micro-cron?targetFile=package.json)
 
